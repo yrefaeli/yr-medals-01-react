@@ -8,16 +8,16 @@
    git clone https://github.com/yrefaeli/yr-medals-01-react.git
    ```
 
-2. **Checkout the `feat/medal-count` branch**
-
-   ```bash
-   git checkout feat/medal-count
-   ```
-
-3. **Change into the project directory**
+2. **Change into the project directory**
 
    ```bash
    cd yr-medals-01-react
+   ```
+
+3. **Checkout the `feat/medal-count` branch**
+
+   ```bash
+   git checkout feat/medal-count
    ```
 
 4. **Install dependencies & start the mock dev server**
