@@ -27,3 +27,8 @@
    npm run dev-mock-error
    ```
 
+## Additional Info
+
+You can see only the code for my implementation in a single PR:
+
+https://github.com/yrefaeli/yr-medals-01-react/pull/1
