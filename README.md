@@ -34,7 +34,7 @@
 
 You can view my entire implementation in a single pull request:
 
-[PR Files](https://github.com/yrefaeli/yr-medals-01-react/pull/1)
+[PR Files](https://github.com/yrefaeli/yr-medals-01-react/pull/1/files)
 
 ### Implementation Details
 
