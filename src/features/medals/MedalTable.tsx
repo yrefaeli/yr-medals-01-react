@@ -78,6 +78,7 @@ export const MedalTable = ({ medals }: { medals: MedalTally[] }) => {
         columns={columns}
         data={medalRecords}
         initialSortKey="gold"
+        initialSortDirection='desc'
         sortPriorities={{
           total: ["gold"],
           gold: ["silver"],
