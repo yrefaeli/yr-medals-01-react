@@ -32,9 +32,9 @@
 
 ## Additional Info
 
-You can see only the code for my implementation in a single PR:
+You can view my entire implementation in a single pull request:
 
-https://github.com/yrefaeli/yr-medals-01-react/pull/1
+[PR Files](https://github.com/yrefaeli/yr-medals-01-react/pull/1)
 
 ### Implementation Details
 
