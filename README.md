@@ -31,4 +31,4 @@
 
 You can see only the code for my implementation in a single PR:
 
-https://github.com/yrefaeli/yr-medals-01-react/pull/1
+[PR files](https://github.com/yrefaeli/yr-medals-01-react/pull/1/files)
